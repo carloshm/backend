@@ -2,6 +2,8 @@
 
 # FreeSewing / backend
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/freesewing/backend.svg)](https://greenkeeper.io/)
+
 This is the backend for [FreeSewing.org](https://freesewing.org/), our maker site.
 
 Our backend is a REST API built with [Express](https://expressjs.com/),
